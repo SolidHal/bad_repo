@@ -12,3 +12,4 @@ inspired by https://blog.sonarsource.com/securing-developer-tools-git-integratio
 and the ability to abuse git hooks
 
 Useful for testing
+
